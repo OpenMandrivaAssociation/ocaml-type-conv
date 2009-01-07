@@ -3,7 +3,7 @@ Version:        1.6.5
 Release:        %mkrel 1
 Summary:        OCaml base library for type conversion
 
-Group:          Development/Libraries
+Group:          Development/Other
 License:        LGPLv2+ with exceptions and BSD
 URL:            http://www.ocaml.info/home/ocaml_sources.html#type-conv
 Source0:        http://hg.ocaml.info/release/type-conv/archive/type-conv-release-%{version}.tar.bz2
