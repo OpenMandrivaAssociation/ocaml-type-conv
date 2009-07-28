@@ -1,5 +1,5 @@
 Name:           ocaml-type-conv
-Version:        1.6.7
+Version:        1.6.8
 Release:        %mkrel 2
 Summary:        OCaml base library for type conversion
 
@@ -40,6 +40,6 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
-%doc LICENSE LICENSE.Tywith CHANGES COPYRIGHT README.txt
+%doc LICENSE LICENSE.Tywith Changelog COPYRIGHT README.txt
 %{_libdir}/ocaml/type-conv
 
