@@ -1,6 +1,6 @@
 Name:           ocaml-type-conv
 Version:        1.6.8
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        OCaml base library for type conversion
 
 Group:          Development/Other
@@ -14,6 +14,7 @@ BuildRequires:  ocaml >= 3.10.0
 BuildRequires:  ocaml-findlib
 BuildRequires:  camlp4
 BuildRequires:  dos2unix
+Requires:       camlp4
 
 %description
 The type-conv mini library factors out functionality needed by
