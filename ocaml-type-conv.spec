@@ -1,12 +1,12 @@
 Name:           ocaml-type-conv
-Version:        1.6.10
-Release:        %mkrel 3
+Version:        2.0.1
+Release:        %mkrel 1
 Summary:        OCaml base library for type conversion
 
 Group:          Development/Other
 License:        LGPLv2+ with exceptions and BSD
 URL:            http://www.ocaml.info/home/ocaml_sources.html#type-conv
-Source0:        http://hg.ocaml.info/release/type-conv/archive/type-conv-release-%{version}.tar.bz2
+Source0:        http://hg.ocaml.info/release/type-conv/archive/release-%{version}.tar.bz2
 # curl http://hg.ocaml.info/release/type-conv/archive/release-%{version}.tar.bz2 > type-conv-release-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 
