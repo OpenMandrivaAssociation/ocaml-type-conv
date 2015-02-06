@@ -4,7 +4,7 @@
 Summary:	OCaml base library for type conversion
 Name:		ocaml-type-conv
 Version:	2.0.1
-Release:	2
+Release:	3
 Group:		Development/Other
 License:	LGPLv2+ with exceptions and BSD
 Url:		http://www.ocaml.info/home/ocaml_sources.html#type-conv
