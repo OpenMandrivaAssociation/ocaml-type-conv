@@ -7,7 +7,7 @@ Version:	2.0.1
 Release:	3
 Group:		Development/Other
 License:	LGPLv2+ with exceptions and BSD
-Url:		http://www.ocaml.info/home/ocaml_sources.html#type-conv
+Url:		https://www.ocaml.info/home/ocaml_sources.html#type-conv
 Source0:	http://hg.ocaml.info/release/type-conv/archive/release-%{version}.tar.bz2
 BuildRequires:	ocaml >= 3.10.0
 BuildRequires:	ocaml-findlib
