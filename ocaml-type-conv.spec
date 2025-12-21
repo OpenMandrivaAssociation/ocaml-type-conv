@@ -9,6 +9,7 @@ Group:		Development/Other
 License:	LGPLv2+ with exceptions and BSD
 Url:		https://www.ocaml.info/home/ocaml_sources.html#type-conv
 Source0:	http://hg.ocaml.info/release/type-conv/archive/release-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	ocaml >= 3.10.0
 BuildRequires:	ocaml-findlib
 BuildRequires:	camlp4
